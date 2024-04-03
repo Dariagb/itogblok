@@ -37,7 +37,7 @@
 
 ## Программа-реестр домашних животных
 
-[java](https://github.com/Dariagb/itogblog/tree/main/itog/itogregister2)
+[java](https://github.com/Dariagb/itogblok/tree/main/itog/itogregister2)
 
 
 
