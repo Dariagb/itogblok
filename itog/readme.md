@@ -29,7 +29,7 @@
 
  2. ООП и Java
 
-[ооп](https://github.com/Dariagb/itogblog/tree/main/itog/registry_oop/src)
+[ооп](https://github.com/Dariagb/itogblok/tree/main/itog/registry_oop)
 
 ## Работа с MySQL 
 
